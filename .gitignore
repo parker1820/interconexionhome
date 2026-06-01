@@ -1,0 +1,12 @@
+# Configuración sensible
+conexion.php
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Configuración de Windows
+Thumbs.db
+desktop.ini
