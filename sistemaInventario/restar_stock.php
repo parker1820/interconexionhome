@@ -1,7 +1,7 @@
 <?php
 
 include("../includes/solo_admin.php");
-include("../config/conexion.php");
+include("../config/conex.php");
 
 if(isset($_GET['id'])){
 

@@ -1,7 +1,7 @@
 <?php
 
 include("session.php");
-include("conexion.php");
+include("conex.php");
 
 /*
 ====================================

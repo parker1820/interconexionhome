@@ -1,6 +1,6 @@
 <?php
 
-include("conexion.php");
+include("conex.php");
 
 $adminPass = password_hash("Dinguis1", PASSWORD_DEFAULT);
 $instPass = password_hash("Instalador1", PASSWORD_DEFAULT);

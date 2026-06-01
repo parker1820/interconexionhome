@@ -1,7 +1,7 @@
 <?php
 
 include("../includes/session.php");
-include("../config/conexion.php");
+include("../config/conex.php");
 
 $usuario_id = $_SESSION['id_usuario'];
 

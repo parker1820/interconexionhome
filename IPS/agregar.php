@@ -1,6 +1,6 @@
 <?php
 include("session.php");
-include("../config/conexion.php");
+include("../config/conex.php");
 
 // Obtener datos y limpiar espacios
 

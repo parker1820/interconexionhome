@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-include("config/conexion.php");
+include("config/conex.php");
 
 $usuario = trim($_POST['usuario'] ?? '');
 $password = trim($_POST['password'] ?? '');

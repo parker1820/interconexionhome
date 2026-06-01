@@ -1,6 +1,6 @@
 <?php
 include("../includes/session.php");
-include("../config/conexion.php");
+include("../config/conex.php");
 
 /*
 ====================================

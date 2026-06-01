@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-include("../config/conexion.php");
+include("../config/conex.php");
 
 if(!isset($_SESSION['id_usuario'])){
     header("Location: ../login.php");
